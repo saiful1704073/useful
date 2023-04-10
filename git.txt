@@ -18,3 +18,12 @@ when added other file or change something
 cloning a git folder
 
 1.git clone (https url)
+
+
+git branch (name) #creating branch 
+git chekout (name) #switching branch
+git merge (name) #merging branch
+git push origin master
+git log #seeing the changes
+
+###krish naik video
